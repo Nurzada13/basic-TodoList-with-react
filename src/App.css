@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+} 
+
+p{
+  background-color: gainsboro;
+  border: solid 1px; 
+  width: 200px; 
+  display: flex;
+  justify-content: center; 
+  margin: auto; 
+  cursor: pointer;
 }
